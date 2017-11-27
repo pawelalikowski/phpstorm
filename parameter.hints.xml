@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="PHP">
+        <added pattern="\Framework\Bus\ValidationCommandBus.execute(command)" />
+        <added pattern="\Zend_Form.addElement(element,name,options)" />
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
