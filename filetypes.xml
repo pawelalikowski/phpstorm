@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="fund_24" type="XML" />
+      <mapping pattern="allfunds" type="XML" />
+    </extensionMap>
+  </component>
+</application>
