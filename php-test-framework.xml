@@ -1,15 +1,4 @@
 <application>
-  <component name="PhpTestFrameworkSettings">
-    <test_tools>
-      <tool tool_name="PHPSpec">
-        <settings>
-          <configurations>
-            <configuration_by_sdk interpreter_id="69aebe26-ab24-4460-aa8a-98b93141e8fd" executable_path="/var/cache/software/phpspec.phar" />
-          </configurations>
-        </settings>
-      </tool>
-    </test_tools>
-  </component>
   <component name="PhpTestFrameworkVersionCache">
     <tools_cache>
       <tool tool_name="PHPSpec">
