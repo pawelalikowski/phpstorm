@@ -1,0 +1,28 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="6.10.3" last-modified="1493734144000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira.office.local">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dffadfeadfdddfcfdf8bdfebdfc6dfe3dfc1df9adfdddfd9dfc1df9bdf9adf9fdf9bdf9d</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.0.10" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>AlikowskiP</username>
+    </JIRA>
+  </component>
+</application>
