@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="let" value="public function let()&#10;{&#10;    $this-&gt;beConstructedWith();&#10;}" description="let function in Spec" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
