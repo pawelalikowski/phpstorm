@@ -1,0 +1,7 @@
+<templateSet group="Zen XSL">
+  <template name="it_" value="public function it_()&#10;{&#10;&#10;}" description="spec" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
